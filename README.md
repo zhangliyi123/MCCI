@@ -24,4 +24,4 @@ If you find this repository useful in your research, please cite the following p
 }
 ```
 ### Contact Information:
-If you find any errors or have any questions, please feel free to contact me. I am very willing to communicate and learn from everyone. My email address is: 1404945515@qq.com.
+If you find any errors or have any questions, please feel free to contact me. I am willing to communicate and learn from everyone. My email address is: 1404945515@qq.com.
